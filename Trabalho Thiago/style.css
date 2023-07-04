@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+
+  header, footer {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+
+  a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /* Estilos específicos para o cabeçalho */
+
+  #cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  /* Estilos específicos para o corpo da apresentação */
+
+  #apresentacao_corpo {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  /* Estilos específicos para o rodapé */
+
+  #agradecimento {
+    text-align: center;
+  }
+
+  body {
+    color: #333;
+  }
+
+  header {
+    background-color: #f5f5f5;
+  }
+
+  #apresentacao_corpo {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+
+  footer {
+    background-color: #f5f5f5;
+    margin-top: 20px;
+  }
+
+  #agradecimento {
+    color: #4f4f4f;
+  }
